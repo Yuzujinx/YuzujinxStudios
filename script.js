@@ -143,8 +143,11 @@ function createCard(moc) {
 }
 
 function renderGallery(filter = 'All', query = '') {
+  if (!cardsContainer) return;
+
+  const featuredLimit = Number(document.body.dataset.featuredLimit || 0);
   const normalizedQuery = query.trim().toLowerCase();
-  const filtered = mocData.filter((moc) => {
+  let filtered = mocData.filter((moc) => {
     const matchesTheme = filter === 'All' || moc.theme === filter;
     const matchesQuery =
       moc.title.toLowerCase().includes(normalizedQuery) ||
@@ -152,6 +155,10 @@ function renderGallery(filter = 'All', query = '') {
       moc.theme.toLowerCase().includes(normalizedQuery);
     return matchesTheme && matchesQuery;
   });
+
+  if (featuredLimit > 0) {
+    filtered = filtered.slice(0, featuredLimit);
+  }
 
   cardsContainer.innerHTML = '';
   if (filtered.length === 0) {
@@ -166,6 +173,8 @@ function renderGallery(filter = 'All', query = '') {
 }
 
 function createFilterTags() {
+  if (!tagsContainer || !searchInput) return;
+
   themeFilters.forEach((theme) => {
     const tag = document.createElement('button');
     tag.type = 'button';
@@ -181,10 +190,32 @@ function createFilterTags() {
   });
 }
 
-searchInput.addEventListener('input', () => {
-  const activeTheme = document.querySelector('.tag.active')?.textContent || 'All';
-  renderGallery(activeTheme, searchInput.value);
-});
+function initRevealEffects() {
+  const revealNodes = document.querySelectorAll('.reveal');
+  if (!revealNodes.length) return;
+
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    },
+    { threshold: 0.15 }
+  );
+
+  revealNodes.forEach((node) => observer.observe(node));
+}
+
+if (searchInput) {
+  searchInput.addEventListener('input', () => {
+    const activeTheme = document.querySelector('.tag.active')?.textContent || 'All';
+    renderGallery(activeTheme, searchInput.value);
+  });
+}
 
 createFilterTags();
 renderGallery();
+initRevealEffects();

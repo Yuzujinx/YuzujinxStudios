@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="360" height="360" rx="28" ry="28" />
+    </clipPath>
+  </defs>
+  <rect width="360" height="360" rx="28" ry="28" fill="#b2b2b2" />
+  <rect x="16" y="16" width="328" height="328" rx="24" ry="24" fill="#8a8a8a" />
+
+  <g transform="translate(40 40)">
+    <g fill="#212121" stroke="#e5e5e5" stroke-width="10">
+      <circle cx="40" cy="40" r="34" />
+      <circle cx="140" cy="40" r="34" />
+      <circle cx="240" cy="40" r="34" />
+      <circle cx="340" cy="40" r="34" />
+      <circle cx="40" cy="140" r="34" />
+      <circle cx="140" cy="140" r="34" />
+      <circle cx="240" cy="140" r="34" />
+      <circle cx="340" cy="140" r="34" />
+    </g>
+    <g fill="#ffffff" font-family="Inter, sans-serif" font-weight="700" font-size="44" text-anchor="middle" dominant-baseline="middle">
+      <text x="40" y="44">Y</text>
+      <text x="140" y="44">U</text>
+      <text x="240" y="44">Z</text>
+      <text x="340" y="44">U</text>
+      <text x="40" y="144">J</text>
+      <text x="140" y="144">I</text>
+      <text x="240" y="144">N</text>
+      <text x="340" y="144">X</text>
+    </g>
+  </g>
+
+  <rect x="16" y="200" width="328" height="48" rx="14" ry="14" fill="#3f8cff" />
+  <rect x="16" y="256" width="328" height="48" rx="14" ry="14" fill="#f0ae27" />
+  <rect x="16" y="312" width="328" height="48" rx="14" ry="14" fill="#5fb74a" />
+
+  <g fill="#ffffff" font-family="Inter, sans-serif" font-weight="700" font-size="32" text-anchor="middle" dominant-baseline="middle">
+    <text x="92" y="230">RE</text>
+    <text x="180" y="292">BRICK</text>
+    <text x="254" y="334">ABLE</text>
+  </g>
+</svg>

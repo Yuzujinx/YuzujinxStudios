@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yuzujinx Gallery</title>
+  <meta name="description" content="Browse a curated LEGO MOC gallery from Yuzujinx with filterable themes and direct Rebrickable links.">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="brand" href="index.html">
+        <img src="logo.svg" alt="YuzujinxStudios logo" width="52" height="52">
+        <strong>YuzujinxStudios</strong>
+      </a>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link" href="gallery.html">Gallery</a>
+        <a class="nav-link" href="about.html">About</a>
+        <a class="nav-link" href="community.html">Community</a>
+      </nav>
+    </header>
+
+    <main class="page-main">
+      <section class="hero reveal">
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow">Interactive MOC library</p>
+            <h1>Browse Yuzujinx’s creativity by theme, mood, and build style.</h1>
+            <p>Use the search box and filter chips to jump between Star Wars ships, clever play builds, and inventive everyday objects.</p>
+            <div class="hero-actions">
+              <a class="btn btn-primary" href="https://rebrickable.com/users/Yuzujinx/mocs/" target="_blank" rel="noopener noreferrer">Open the full Rebrickable profile</a>
+            </div>
+          </div>
+          <div class="hero-card reveal">
+            <h3>Gallery highlights</h3>
+            <ul>
+              <li>Star Wars fleet and diorama ideas.</li>
+              <li>Play-friendly, buildable creations.</li>
+              <li>Search and filter tools for quick exploration.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="section reveal">
+        <div class="section-headline">
+          <div>
+            <h2>Explore the full gallery</h2>
+            <p>Search for titles, themes, or keywords to find a build that matches your taste.</p>
+          </div>
+        </div>
+
+        <div class="filter-bar">
+          <input id="search" class="search-field" type="search" placeholder="Search MOCs by title, theme, or keyword" aria-label="Search MOCs">
+          <div class="tag-list" aria-label="Filter MOCs by theme"></div>
+        </div>
+
+        <div class="card-grid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div>Built to make Yuzujinx’s LEGO creations feel easy to discover.</div>
+      <div><a class="text-link" href="https://rebrickable.com/users/Yuzujinx/mocs/" target="_blank" rel="noopener noreferrer">See all MOCs</a></div>
+    </footer>
+  </div>
+</body>
+</html>
