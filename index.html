@@ -3,9 +3,102 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hello World</title>
+  <title>Yuzujinx LEGO MOC Gallery</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="script.js"></script>
 </head>
 <body>
-  <h1>Hello World</h1>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="brand" href="#top">
+        <span></span>
+        <strong>Yuzujinx MOCs</strong>
+      </a>
+      <nav class="site-nav">
+        <a href="#featured">Featured MOCs</a>
+        <a href="#why">Why Yuzujinx</a>
+        <a href="#extras">Explore More</a>
+      </nav>
+    </header>
+
+    <section class="hero" id="top">
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <p style="margin-bottom:0.75rem; color: var(--accent); font-weight:700; letter-spacing:0.16em; text-transform:uppercase;">Custom LEGO MOC Showcase</p>
+          <h1>Build the best from Yuzujinx — the Rebrickable creator with bold Star Wars and city designs.</h1>
+          <p>Discover free MOCs, mod builds, and cinematic LEGO scenes. Every design is hand-crafted for detail, play value, and easy browsing from the Rebrickable profile.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="https://rebrickable.com/users/Yuzujinx/mocs/" target="_blank" rel="noopener noreferrer">Visit the Rebrickable profile</a>
+            <a class="btn btn-secondary" href="#featured">Browse featured MOCs</a>
+          </div>
+          <div class="hero-meta">
+            <div class="hero-pill">
+              <strong>96 MOCs</strong>
+              Unique custom builds on Rebrickable
+            </div>
+            <div class="hero-pill">
+              <strong>1,588 followers</strong>
+              Trusted LEGO creator community
+            </div>
+            <div class="hero-pill">
+              <strong>41,841 parts</strong>
+              Total collection across projects
+            </div>
+          </div>
+        </div>
+        <div class="hero-copy">
+          <div class="section-panel" style="background: rgba(246,183,0,0.08); border-color: rgba(246,183,0,0.18);">
+            <h3>Featured from the gallery</h3>
+            <ul>
+              <li>Gunship on Coruscant — cinematic Star Wars flyer</li>
+              <li>Corellian YT-1300 Freighter — classic freighter build</li>
+              <li>Table Soccer — large play-ready set design</li>
+            </ul>
+            <p>Use the gallery filter to narrow by theme and quickly explore each MOC with direct Rebrickable links.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <main class="page-main">
+      <section id="featured">
+        <div class="section-headline">
+          <div>
+            <h2>Featured Yuzujinx MOCs</h2>
+            <p>Explore a hand-picked gallery of top custom creations from the Rebrickable catalog.</p>
+          </div>
+        </div>
+
+        <div class="filter-bar">
+          <input id="search" class="search-field" type="search" placeholder="Search MOCs by title, theme, or keyword" aria-label="Search MOCs">
+          <div class="tag-list" aria-label="Filter MOCs by theme"></div>
+        </div>
+
+        <div class="card-grid"></div>
+      </section>
+
+      <section id="why" class="section-panel">
+        <h3>Why build from Yuzujinx?</h3>
+        <p>Yuzujinx designs combine cinematic Star Wars builds, clever free mods, and everyday LEGO creations for home, tech, and play. This site highlights outstanding projects with direct links to the official Rebrickable MOC pages.</p>
+        <ul>
+          <li>Curated selection of high-impact MOCs with descriptions, part counts, and theme labels.</li>
+          <li>Responsive layout for browsing on desktop or mobile.</li>
+          <li>Easy access to the full Rebrickable profile and original MOC downloads.</li>
+        </ul>
+      </section>
+
+      <section id="extras" class="section-panel">
+        <h3>Explore More LEGO Creativity</h3>
+        <p>From Star Wars ships and cinematic microfigures to interactive table soccer and modern city builds, this collection celebrates the range of Yuzujinx's custom LEGO work.</p>
+        <p>Want to keep this site up to date? Add more MOCs to the data array in <code>script.js</code> and the gallery will refresh automatically.</p>
+        <a class="btn btn-primary" href="https://rebrickable.com/users/Yuzujinx/mocs/" target="_blank" rel="noopener noreferrer">See all MOCs on Rebrickable</a>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div>Created for Yuzujinx MOC promotion.</div>
+      <div><a href="https://rebrickable.com/users/Yuzujinx/mocs/" target="_blank" rel="noopener noreferrer">Rebrickable profile</a></div>
+    </footer>
+  </div>
 </body>
 </html>
