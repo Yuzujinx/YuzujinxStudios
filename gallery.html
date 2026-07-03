@@ -25,42 +25,51 @@
     </header>
 
     <main class="page-main">
-      <section class="hero reveal">
-        <div class="hero-grid">
-          <div class="hero-copy">
-            <p class="eyebrow">Interactive MOC library</p>
-            <h1>Browse Yuzujinx’s creativity by theme, mood, and build style.</h1>
-            <p>Use the search box and filter chips to jump between Star Wars ships, clever play builds, and inventive everyday objects.</p>
-            <div class="hero-actions">
-              <a class="btn btn-primary" href="https://rebrickable.com/users/Yuzujinx/mocs/" target="_blank" rel="noopener noreferrer">Open the full Rebrickable profile</a>
+      <div class="gallery-layout reveal">
+        <section class="hero-panel">
+          <section class="hero reveal">
+            <div class="hero-grid">
+              <div class="hero-copy">
+                <p class="eyebrow">Interactive MOC library</p>
+                <h1>Browse Yuzujinx’s creativity by theme, mood, and build style.</h1>
+                <p>Use the search box and filter chips to jump between Star Wars ships, clever play builds, and inventive everyday objects.</p>
+                <div class="hero-actions">
+                  <a class="btn btn-primary" href="https://rebrickable.com/users/Yuzujinx/mocs/" target="_blank" rel="noopener noreferrer">Open the full Rebrickable profile</a>
+                </div>
+              </div>
+              <div class="hero-card reveal">
+                <h3>Gallery highlights</h3>
+                <ul>
+                  <li>Star Wars fleet and diorama ideas.</li>
+                  <li>Play-friendly, buildable creations.</li>
+                  <li>Search and filter tools for quick exploration.</li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <div class="section-panel reveal">
+            <h3>Search with confidence</h3>
+            <p>Find specific themes, year-round favorites, or mood-driven builds without losing the full gallery view.</p>
+          </div>
+        </section>
+
+        <section class="results-panel">
+          <div class="section-headline">
+            <div>
+              <h2>Explore the full gallery</h2>
+              <p>Search for titles, themes, or keywords to find a build that matches your taste.</p>
             </div>
           </div>
-          <div class="hero-card reveal">
-            <h3>Gallery highlights</h3>
-            <ul>
-              <li>Star Wars fleet and diorama ideas.</li>
-              <li>Play-friendly, buildable creations.</li>
-              <li>Search and filter tools for quick exploration.</li>
-            </ul>
+
+          <div class="filter-bar">
+            <input id="search" class="search-field" type="search" placeholder="Search MOCs by title, theme, or keyword" aria-label="Search MOCs">
+            <div class="tag-list" aria-label="Filter MOCs by theme"></div>
           </div>
-        </div>
-      </section>
 
-      <section class="section reveal">
-        <div class="section-headline">
-          <div>
-            <h2>Explore the full gallery</h2>
-            <p>Search for titles, themes, or keywords to find a build that matches your taste.</p>
-          </div>
-        </div>
-
-        <div class="filter-bar">
-          <input id="search" class="search-field" type="search" placeholder="Search MOCs by title, theme, or keyword" aria-label="Search MOCs">
-          <div class="tag-list" aria-label="Filter MOCs by theme"></div>
-        </div>
-
-        <div class="card-grid"></div>
-      </section>
+          <div class="card-grid"></div>
+        </section>
+      </div>
     </main>
 
     <footer class="footer">
