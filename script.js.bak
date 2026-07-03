@@ -51,7 +51,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars build with classic sci-fi details."
+    "description": ""
   },
   {
     "title": "Hi Five ReBrickBot",
@@ -96,7 +96,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars bomber build."
+    "description": ""
   },
   {
     "title": "Table Soccer",
@@ -105,7 +105,7 @@ const mocData = [
     "theme": "Sports > Soccer",
     "year": 2026,
     "badge": "",
-    "description": "A sporty build with soccer-themed details."
+    "description": ""
   },
   {
     "title": "Kamino Diorama",
@@ -114,7 +114,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A small display diorama scene."
+    "description": ""
   },
   {
     "title": "Geonosis Trench",
@@ -123,7 +123,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars build with classic sci-fi details."
+    "description": ""
   },
   {
     "title": "Force Temple on Coruscant",
@@ -132,7 +132,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A detailed temple display build."
+    "description": ""
   },
   {
     "title": "Binary Sunset Duel",
@@ -141,7 +141,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars build with classic sci-fi details."
+    "description": ""
   },
   {
     "title": "General Hux's Speech on Starkiller Base",
@@ -150,7 +150,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars build with classic sci-fi details."
+    "description": ""
   },
   {
     "title": "Kashyyyk Micro Diorama",
@@ -159,7 +159,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A small display diorama scene."
+    "description": ""
   },
   {
     "title": "Kamino Barracks (BF2)",
@@ -168,7 +168,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars build with classic sci-fi details."
+    "description": ""
   },
   {
     "title": "IKEA Storage & Home",
@@ -177,7 +177,7 @@ const mocData = [
     "theme": "City",
     "year": 2026,
     "badge": "",
-    "description": "A city-style build with everyday scene detail."
+    "description": ""
   },
   {
     "title": "IKEA Furniture",
@@ -186,7 +186,7 @@ const mocData = [
     "theme": "City",
     "year": 2026,
     "badge": "",
-    "description": "A city-style build with everyday scene detail."
+    "description": ""
   },
   {
     "title": "Anakin's Delta 7B [MOD]",
@@ -195,7 +195,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars build with classic sci-fi details."
+    "description": ""
   },
   {
     "title": "Sith Infiltrator Scimitar",
@@ -303,7 +303,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A rugged tank-style vehicle build."
+    "description": ""
   },
   {
     "title": "Biplane [MOD]",
@@ -312,7 +312,7 @@ const mocData = [
     "theme": "Creator > Creator 3-in-1",
     "year": 2026,
     "badge": "",
-    "description": "A versatile Creator 3-in-1 build with playful design."
+    "description": ""
   },
   {
     "title": "Angry Geonosian",
@@ -330,7 +330,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars fighter model."
+    "description": ""
   },
   {
     "title": "Calculator",
@@ -366,7 +366,7 @@ const mocData = [
     "theme": "City > Airport",
     "year": 2026,
     "badge": "",
-    "description": "An airport-themed passenger jet build."
+    "description": ""
   },
   {
     "title": "Lawn Mower (Brick-Figure Sized)",
@@ -375,7 +375,7 @@ const mocData = [
     "theme": "Creator > Creator 3-in-1",
     "year": 2026,
     "badge": "",
-    "description": "A small everyday vehicle build."
+    "description": ""
   },
   {
     "title": "LEGO Minifigure Raised Display Stand",
@@ -384,7 +384,7 @@ const mocData = [
     "theme": "Other",
     "year": 2026,
     "badge": "",
-    "description": "A display stand for minifigures."
+    "description": ""
   },
   {
     "title": "Redstone Ore LIGHT-UP Block",
@@ -393,7 +393,7 @@ const mocData = [
     "theme": "Minecraft",
     "year": 2026,
     "badge": "",
-    "description": "A light-up Minecraft redstone block display."
+    "description": ""
   },
   {
     "title": "Sleek EV Car",
@@ -402,7 +402,7 @@ const mocData = [
     "theme": "City > Traffic",
     "year": 2026,
     "badge": "",
-    "description": "A city-style build with everyday scene detail."
+    "description": ""
   },
   {
     "title": "City Bench",
@@ -411,7 +411,7 @@ const mocData = [
     "theme": "City",
     "year": 2026,
     "badge": "",
-    "description": "A simple city bench build."
+    "description": ""
   },
   {
     "title": "Republic Heavy Armored Tank",
@@ -420,7 +420,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A rugged tank-style vehicle build."
+    "description": ""
   },
   {
     "title": "Desktop Reef Aquarium",
@@ -429,7 +429,7 @@ const mocData = [
     "theme": "City",
     "year": 2026,
     "badge": "",
-    "description": "A city-style build with everyday scene detail."
+    "description": ""
   },
   {
     "title": "Clone BARC Speeder",
@@ -438,7 +438,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact sci-fi speeder vehicle."
+    "description": ""
   },
   {
     "title": "Axolotl",
@@ -447,7 +447,7 @@ const mocData = [
     "theme": "Minecraft",
     "year": 2026,
     "badge": "",
-    "description": "A cute Minecraft creature build."
+    "description": ""
   },
   {
     "title": "Birch Treehouse",
@@ -456,7 +456,7 @@ const mocData = [
     "theme": "Minecraft",
     "year": 2026,
     "badge": "",
-    "description": "A cozy house build with charming detail."
+    "description": ""
   },
   {
     "title": "Mushroom House",
@@ -465,7 +465,7 @@ const mocData = [
     "theme": "Minecraft",
     "year": 2026,
     "badge": "",
-    "description": "A cozy house build with charming detail."
+    "description": ""
   },
   {
     "title": "Mushroom Island",
@@ -474,7 +474,7 @@ const mocData = [
     "theme": "Minecraft",
     "year": 2026,
     "badge": "",
-    "description": "A Minecraft-inspired island build."
+    "description": ""
   },
   {
     "title": "Zombie Cavern",
@@ -501,7 +501,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A colorful LEGO Art design with bright shapes."
+    "description": ""
   },
   {
     "title": "Clone Wars Battlepack Accessories",
@@ -510,7 +510,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "An action-packed scene build."
+    "description": ""
   },
   {
     "title": "Maul's Sith Lightsaber",
@@ -519,7 +519,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars build with classic sci-fi details."
+    "description": ""
   },
   {
     "title": "Sulfur Cube Slot",
@@ -528,7 +528,7 @@ const mocData = [
     "theme": "Minecraft",
     "year": 2026,
     "badge": "",
-    "description": "A Minecraft-inspired blocky scene with playful details."
+    "description": ""
   },
   {
     "title": "Turtle Pixel Art",
@@ -537,7 +537,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Kitchen",
@@ -546,7 +546,7 @@ const mocData = [
     "theme": "Modular Buildings",
     "year": 2026,
     "badge": "",
-    "description": "A warm kitchen scene with detailed touches."
+    "description": ""
   },
   {
     "title": "Movie Clapperboard",
@@ -555,7 +555,7 @@ const mocData = [
     "theme": "Studios",
     "year": 2026,
     "badge": "",
-    "description": "A studio-themed display build."
+    "description": ""
   },
   {
     "title": "Stray Pixel Art",
@@ -564,7 +564,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Skeleton Mug",
@@ -573,7 +573,7 @@ const mocData = [
     "theme": "Minecraft",
     "year": 2026,
     "badge": "",
-    "description": "A blocky spooky build with fun detail."
+    "description": ""
   },
   {
     "title": "Magma Cube Pixel Art",
@@ -582,7 +582,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Enderman Pixel Art",
@@ -591,7 +591,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Old F1 Racing Car",
@@ -600,7 +600,7 @@ const mocData = [
     "theme": "Speed Champions",
     "year": 2026,
     "badge": "",
-    "description": "A fast-paced racer-style build."
+    "description": ""
   },
   {
     "title": "Insane Speed Crank (1:78125)",
@@ -609,7 +609,7 @@ const mocData = [
     "theme": "Technic",
     "year": 2026,
     "badge": "",
-    "description": "A Technic-inspired build with structural focus."
+    "description": ""
   },
   {
     "title": "Captain Rex's Starship",
@@ -627,7 +627,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "",
-    "description": "A compact Star Wars build with classic sci-fi details."
+    "description": ""
   },
   {
     "title": "Mos Espa Podrace",
@@ -654,7 +654,7 @@ const mocData = [
     "theme": "Modular Buildings",
     "year": 2026,
     "badge": "",
-    "description": "A modular building with charming architectural detail."
+    "description": ""
   },
   {
     "title": "Grass Block",
@@ -663,7 +663,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A colorful LEGO Art design with bright shapes."
+    "description": ""
   },
   {
     "title": "Fox Pixel Art",
@@ -672,7 +672,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Frog Pixel Art",
@@ -681,7 +681,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Washroom / Bathroom",
@@ -690,7 +690,7 @@ const mocData = [
     "theme": "Modular Buildings",
     "year": 2026,
     "badge": "",
-    "description": "A modular building with charming architectural detail."
+    "description": ""
   },
   {
     "title": "Fun Sandbox Playground",
@@ -699,7 +699,7 @@ const mocData = [
     "theme": "City",
     "year": 2026,
     "badge": "",
-    "description": "A city-style build with everyday scene detail."
+    "description": ""
   },
   {
     "title": "New Republic X Wing Starfighter",
@@ -708,7 +708,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "Alt",
-    "description": "A compact Star Wars build with classic sci-fi detail."
+    "description": "Alternate Build MOC"
   },
   {
     "title": "Pillager Pixel Art",
@@ -717,7 +717,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Sheep Pixel Art Collection",
@@ -726,7 +726,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "3D Slime Cube",
@@ -735,7 +735,7 @@ const mocData = [
     "theme": "Minecraft",
     "year": 2026,
     "badge": "",
-    "description": "A Minecraft-inspired blocky scene with playful details."
+    "description": ""
   },
   {
     "title": "Bee Pixel Art",
@@ -744,7 +744,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Skeleton Pixel Art",
@@ -753,7 +753,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Technoblade Pixel Art",
@@ -762,7 +762,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Imperial Star-Destroyer",
@@ -771,7 +771,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "Alt",
-    "description": "A compact Star Wars destroyer build with bold detail."
+    "description": "Alternate Build MOC"
   },
   {
     "title": "Villager Pixel Art",
@@ -780,7 +780,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Cow Pixel Art",
@@ -789,7 +789,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Zombie Pixel Art",
@@ -798,7 +798,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Steve Pixel Art",
@@ -807,7 +807,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Pig Pixel Art",
@@ -816,7 +816,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Mooshroom Pixel Art",
@@ -825,7 +825,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Creeper Pixel Art",
@@ -834,7 +834,7 @@ const mocData = [
     "theme": "LEGO Art",
     "year": 2026,
     "badge": "",
-    "description": "A vibrant LEGO Art pixel-style design."
+    "description": ""
   },
   {
     "title": "Phone Stand",
@@ -843,7 +843,7 @@ const mocData = [
     "theme": "Technic",
     "year": 2026,
     "badge": "",
-    "description": "A Technic-inspired build with structural focus."
+    "description": ""
   },
   {
     "title": "N1 Starfighter",
@@ -852,7 +852,7 @@ const mocData = [
     "theme": "Star Wars",
     "year": 2026,
     "badge": "Alt",
-    "description": "A compact Star Wars fighter build with sleek detail."
+    "description": "Alternate Build MOC"
   },
   {
     "title": "Badlands Battle!",
@@ -861,7 +861,7 @@ const mocData = [
     "theme": "Minecraft",
     "year": 2026,
     "badge": "",
-    "description": "A Minecraft-inspired battle scene with blocky adventure detail."
+    "description": ""
   }
 ];
 
