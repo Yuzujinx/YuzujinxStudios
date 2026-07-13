@@ -9,6 +9,141 @@ const mocData = [
     "description": "Alternate Build MOC - only uses parts from 75448-1 Clone Shock Trooper Mech"
   },
   {
+    "title": "SpongeBob SquarePants",
+    "url": "https://rebrickable.com/mocs/MOC-269572/Yuzujinx/spongebob-squarepants/?spot=designer_mocs",
+    "parts": 306,
+    "theme": "Classic",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A bright LEGO figure build inspired by SpongeBob SquarePants."
+  },
+  {
+    "title": "Zane's AT-RT Walker",
+    "url": "https://rebrickable.com/mocs/MOC-269560/Yuzujinx/zanes-at-rt-walker/?spot=designer_mocs",
+    "parts": 52,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A custom AT-RT walker build with strong battle-ready styling."
+  },
+  {
+    "title": "Z-95 Headhunter & Blaster Cannon",
+    "url": "https://rebrickable.com/mocs/MOC-269555/Yuzujinx/z-95-headhunter-blaster-cannon/?spot=designer_mocs",
+    "parts": 68,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A sleek Z-95 starfighter paired with a heavy blaster cannon."
+  },
+  {
+    "title": "Cole's Go Kart",
+    "url": "https://rebrickable.com/mocs/MOC-265567/Yuzujinx/coles-go-kart/?spot=designer_mocs",
+    "parts": 30,
+    "theme": "Ninjago",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A compact go-kart inspired by classic Ninjago racing builds."
+  },
+  {
+    "title": "LAAT Gunship & Comms Station",
+    "url": "https://rebrickable.com/mocs/MOC-269450/Yuzujinx/laat-gunship-comms-station/?spot=designer_mocs",
+    "parts": 68,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A LAAT gunship build accompanied by a command comms station."
+  },
+  {
+    "title": "Palpatine's Throne",
+    "url": "https://rebrickable.com/mocs/MOC-269416/Yuzujinx/palpatines-throne/?spot=designer_mocs",
+    "parts": 68,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A regal Imperial throne display with dramatic lighting."
+  },
+  {
+    "title": "Invincible Busts",
+    "url": "https://rebrickable.com/mocs/MOC-269405/Yuzujinx/invincible-busts/?spot=designer_mocs",
+    "parts": 289,
+    "theme": "Classic",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A pair of stylized bust builds inspired by iconic characters."
+  },
+  {
+    "title": "Police Car ½ ½ (60481)",
+    "url": "https://rebrickable.com/mocs/MOC-265779/Yuzujinx/police-car-1-2-1-2-60481/?spot=designer_mocs",
+    "parts": 69,
+    "theme": "City > Police",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A unique half-half police cruiser with city patrol style."
+  },
+  {
+    "title": "Fire Truck (60482)",
+    "url": "https://rebrickable.com/mocs/MOC-264474/Yuzujinx/fire-truck-60482/?spot=designer_mocs",
+    "parts": 63,
+    "theme": "City > Fire",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A compact rescue vehicle with ladder and firefighting gear."
+  },
+  {
+    "title": "Tow Truck (60483)",
+    "url": "https://rebrickable.com/mocs/MOC-269336/Yuzujinx/tow-truck-60483/?spot=designer_mocs",
+    "parts": 55,
+    "theme": "City > Construction",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A hardworking tow truck built for roadside recovery missions."
+  },
+  {
+    "title": "Futuristic Convertible (60484)",
+    "url": "https://rebrickable.com/mocs/MOC-267577/Yuzujinx/futuristic-convertible-60484/?spot=designer_mocs",
+    "parts": 64,
+    "theme": "City > Traffic",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A bright neon convertible with futuristic city styling."
+  },
+  {
+    "title": "Outlander V {100th MOC Special}",
+    "url": "https://rebrickable.com/mocs/MOC-269289/Yuzujinx/outlander-v-100th-moc-special/?spot=designer_mocs",
+    "parts": 121,
+    "theme": "City",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A milestone special build celebrating the 100th MOC."
+  },
+  {
+    "title": "X Wing VS Imperial Turret",
+    "url": "https://rebrickable.com/mocs/MOC-269286/Yuzujinx/x-wing-vs-imperial-turret/?spot=designer_mocs",
+    "parts": 66,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A dramatic space battle scene with X-Wing and turret."
+  },
+  {
+    "title": "Super Mario Bros",
+    "url": "https://rebrickable.com/mocs/MOC-268977/Yuzujinx/super-mario-bros/?spot=designer_mocs",
+    "parts": 245,
+    "theme": "Super Mario",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "Iconic pixel-art characters recreated in LEGO form."
+  },
+  {
+    "title": "Pac-Man",
+    "url": "https://rebrickable.com/mocs/MOC-268934/Yuzujinx/pac-man/?spot=designer_mocs",
+    "parts": 418,
+    "theme": "Classic",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A colorful arcade-style LEGO pixel art display."
+  },
+  {
     "title": "Venator + Swamp Speeder (31173) [FREE]",
     "url": "https://rebrickable.com/mocs/MOC-265135/Yuzujinx/venator-swamp-speeder-31173-free/?spot=designer_mocs&t=1783069331&cs=3716",
     "parts": 132,
