@@ -1216,6 +1216,31 @@ if (searchInput) {
   });
 }
 
+const revealElements = document.querySelectorAll('.reveal');
+
+if (revealElements.length) {
+  if ('IntersectionObserver' in window) {
+    const revealObserver = new IntersectionObserver(function (entries, observer) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.14 });
+
+    revealElements.forEach(function (element) {
+      revealObserver.observe(element);
+    });
+  }
+
+  window.setTimeout(function () {
+    revealElements.forEach(function (element) {
+      element.classList.add('is-visible');
+    });
+  }, 50);
+}
+
 try {
   createFilterTags();
   renderGallery();
