@@ -997,6 +997,123 @@ const mocData = [
     "year": 2026,
     "badge": "",
     "description": "A Minecraft-inspired battle scene with blocky adventure detail."
+  },
+  {
+    "title": "Plant Brickheadz",
+    "url": "https://rebrickable.com/mocs/MOC-269945/Yuzujinx/plant-brickheadz/?spot=designer_mocs",
+    "parts": 37,
+    "theme": "Brickheadz",
+    "year": 2026,
+    "badge": "",
+    "description": "A plant-themed Brickheadz figure with charming botanical details."
+  },
+  {
+    "title": "Working Toaster",
+    "url": "https://rebrickable.com/mocs/MOC-269855/Yuzujinx/working-toaster/?spot=designer_mocs",
+    "parts": 108,
+    "theme": "Creator",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A clever LEGO Creator build that recreates an everyday kitchen appliance."
+  },
+  {
+    "title": "Helicopter",
+    "url": "https://rebrickable.com/mocs/MOC-269852/Yuzujinx/helicopter/?spot=designer_mocs",
+    "parts": 103,
+    "theme": "Creator",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A Creator-style helicopter with articulated blades and aviation details."
+  },
+  {
+    "title": "Kai's Dragon AT-RT Walker",
+    "url": "https://rebrickable.com/mocs/MOC-269838/Yuzujinx/kais-dragon-at-rt-walker/?spot=designer_mocs",
+    "parts": 46,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A dragon-inspired AT-RT Walker with fiery red and orange styling."
+  },
+  {
+    "title": "Venator",
+    "url": "https://rebrickable.com/mocs/MOC-269816/Yuzujinx/venator/?spot=designer_mocs",
+    "parts": 60,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A display-ready Venator-class Star Destroyer with sleek starship proportions."
+  },
+  {
+    "title": "AT-RT Display Collection",
+    "url": "https://rebrickable.com/mocs/MOC-265918/Yuzujinx/at-rt-display-collection/?spot=designer_mocs",
+    "parts": 1245,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "",
+    "description": "An impressive collection displaying multiple AT-RT Walker variants."
+  },
+  {
+    "title": "Vader's AT-RT Walker",
+    "url": "https://rebrickable.com/mocs/MOC-269737/Yuzujinx/vaders-at-rt-walker/?spot=designer_mocs",
+    "parts": 63,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A menacing dark red and black AT-RT Walker inspired by Darth Vader."
+  },
+  {
+    "title": "Kylo Ren's Command Shuttle",
+    "url": "https://rebrickable.com/mocs/MOC-269707/Yuzujinx/kylo-rens-command-shuttle/?spot=designer_mocs",
+    "parts": 68,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A distinctive Command Shuttle with Kylo Ren's signature angular design."
+  },
+  {
+    "title": "Boba's AT-RT Walker",
+    "url": "https://rebrickable.com/mocs/MOC-269704/Yuzujinx/bobas-at-rt-walker/?spot=designer_mocs",
+    "parts": 65,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A green and gray AT-RT Walker with Boba Fett's legendary hunter aesthetic."
+  },
+  {
+    "title": "Imperial AT-RT Walker",
+    "url": "https://rebrickable.com/mocs/MOC-269698/Yuzujinx/imperial-at-rt-walker/?spot=designer_mocs",
+    "parts": 62,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A clean white and gray Imperial AT-RT Walker with military precision."
+  },
+  {
+    "title": "Maul's AT-RT Walker",
+    "url": "https://rebrickable.com/mocs/MOC-269688/Yuzujinx/mauls-at-rt-walker/?spot=designer_mocs",
+    "parts": 62,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A menacing red and black AT-RT Walker inspired by Darth Maul's dark side."
+  },
+  {
+    "title": "Skywalker's AT-RT Walker",
+    "url": "https://rebrickable.com/mocs/MOC-269680/Yuzujinx/skywalkers-at-rt-walker/?spot=designer_mocs",
+    "parts": 114,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "A blue and white AT-RT Walker with Skywalker family colors and design."
+  },
+  {
+    "title": "Zane's EVO AT-RT Walker",
+    "url": "https://rebrickable.com/mocs/MOC-269594/Yuzujinx/zanes-evo-at-rt-walker/?spot=designer_mocs",
+    "parts": 64,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "Alt",
+    "description": "An evolved version of Zane's AT-RT Walker with enhanced mechanical detail."
   }
 ];
 
