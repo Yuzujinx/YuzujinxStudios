@@ -1114,6 +1114,15 @@ const mocData = [
     "year": 2026,
     "badge": "Alt",
     "description": "An evolved version of Zane's AT-RT Walker with enhanced mechanical detail."
+  },
+  {
+    "title": "TIE Defender",
+    "url": "https://rebrickable.com/mocs/MOC-267865/Yuzujinx/tie-defender/?spot=designer_mocs",
+    "parts": 68,
+    "theme": "Star Wars",
+    "year": 2026,
+    "badge": "",
+    "description": "A compact TIE Defender build from Star Wars Rebels."
   }
 ];
 

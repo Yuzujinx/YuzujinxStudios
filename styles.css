@@ -106,7 +106,7 @@ input {
   height: 1.2rem;
   border-radius: 0.35rem;
   background: linear-gradient(135deg, var(--accent) 0%, var(--accent-strong) 100%);
-  box-shadow: 0 0 0 4px rgba(246,183,0,0.18);
+  box-shadow: 0 0 0 4px rgba(255,207,92,0.18);
 }
 
 .site-nav {
@@ -173,7 +173,7 @@ input {
   height: 220px;
   top: -80px;
   right: -70px;
-  background: rgba(246,183,0,0.18);
+  background: rgba(255,207,92,0.18);
 }
 
 .hero::after {
@@ -181,7 +181,7 @@ input {
   height: 180px;
   bottom: -90px;
   left: -40px;
-  background: rgba(90, 146, 255, 0.16);
+  background: rgba(87,216,255,0.16);
 }
 
 .hero-grid {
@@ -407,7 +407,7 @@ input {
 .tag.active,
 .tag:hover,
 .tag:focus-visible {
-  background: rgba(246,183,0,0.2);
+  background: rgba(255,207,92,0.2);
   transform: translateY(-1px);
 }
 
@@ -429,14 +429,14 @@ input {
 .card:focus-within {
   transform: translateY(-6px) scale(1.01);
   box-shadow: 0 25px 70px rgba(0,0,0,0.35);
-  border-color: rgba(246,183,0,0.35);
+  border-color: rgba(255,207,92,0.35);
 }
 
 .card-media {
   min-height: 180px;
   position: relative;
   padding: 1rem;
-  background: linear-gradient(140deg, rgba(246,183,0,0.24), rgba(255,255,255,0.04));
+  background: linear-gradient(140deg, rgba(255,207,92,0.24), rgba(255,255,255,0.04));
 }
 
 .card-media::after {
@@ -507,9 +507,9 @@ input {
 
 .btn-link {
   border-radius: 1.1rem;
-  background: rgba(246,183,0,0.12);
+  background: rgba(255,207,92,0.12);
   color: var(--text);
-  border: 1px solid rgba(246,183,0,0.3);
+  border: 1px solid rgba(255,207,92,0.3);
 }
 
 .showcase-grid {
@@ -637,6 +637,23 @@ input {
   50% {
     transform: translateY(-4px);
   }
+}
+
+/* Gallery page: disable card animations and use theme surface for card backgrounds */
+.gallery-page .card {
+  background: var(--surface);
+  transition: none !important;
+  box-shadow: none !important;
+  border: 1px solid rgba(255,255,255,0.08) !important;
+}
+.gallery-page .card:hover,
+.gallery-page .card:focus-within {
+  transform: none !important;
+  box-shadow: none !important;
+}
+.gallery-page .card-media {
+  background: var(--surface) !important;
+  background-image: none !important;
 }
 
 @media (min-width: 900px) {
